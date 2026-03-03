@@ -12,7 +12,7 @@ function App() {
     try {
       setLoading(true);
       setError("");
-      const res = await axios.post("https://bitespeed-backend.onrender.com/identify", {
+      const res = await axios.post("https://bite-backend-gvj3.onrender.com/identify", {
         email: email || null,
         phoneNumber: phone || null,
       });

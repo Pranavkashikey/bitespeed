@@ -1,6 +1,6 @@
 🚀 Bitespeed Identity Resolution Service
 A backend service that consolidates customer identities across multiple purchases by resolving and linking contact records using email and phone number.
-
+Live Link:---> [https://bitespeed-six.vercel.app/](https://bitespeed-six.vercel.app/)
 📌 Problem Statement
 FluxKart collects customer contact details during checkout.
 Customers may use different emails or phone numbers across purchases.
